@@ -1,0 +1,2 @@
+2025-11-26T01:14:45.789+01:00  INFO 27084 --- [tp8-monitoring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-26T01:14:46.382+01:00  INFO 27084 --- [tp8-monitoring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
