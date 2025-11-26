@@ -86,6 +86,11 @@
 
 
 
+
+https://github.com/user-attachments/assets/99d1c668-19d2-422f-abe0-ca048079a636
+
+
+
 ## Étape 7 : Alertes et supervision proactive
 
 ### Côté Prometheus
@@ -99,5 +104,6 @@
 -   Création d'une règle d'alerte basée sur PromQL.
 -   Condition sur la latence.
 -   Configuration d'un canal de notification (email, Slack...).
+
 
 
